@@ -1,7 +1,14 @@
 # JohnCena.JS
 JohnCena.JS Bring the full power of John Cena to your webapp
 
-Just include the <code>john-cena.js</code> file and <br>
+Just include the <code>john-cena.js</code> file
+<br>
+
+```html
+<script src="john-cena.js"></script>
+```
+
+and <br>
 ```html
 <script type="text/javascript">
 	$(window).load(function() {
@@ -36,7 +43,7 @@ For the Timer version
 ```
 
 <br>
-ENJOY
+Enjoy!
 
 
 
