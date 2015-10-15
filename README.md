@@ -1,3 +1,6 @@
+
+<img src="cena.png" width="250">
+
 # JohnCena.JS
 JohnCena.JS Bring the full power of John Cena to your webapp
 
