@@ -5,20 +5,20 @@
 JohnCena.JS Bring the full power of John Cena to your webapp
 
 Just include the <code>john-cena.js</code> file
-<br>
+
 
 ```html
 <script src="john-cena.js"></script>
 ```
 
-and <br>
+and 
 ```javascript
 $(window).load(function() {
 	$('.button').cena();
 });
 ```
 
-<br>
+
 For the Konami Code version
 ```javascript
 $(window).load(function() {
@@ -28,7 +28,7 @@ $(window).load(function() {
 });
 ```
 
-<br> 
+
 For the Timer version
 ```javascript
 $(window).load(function() {
@@ -39,7 +39,7 @@ $(window).load(function() {
 });
 ```
 
-<br>
+
 Enjoy!
 
 
